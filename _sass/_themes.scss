@@ -7,7 +7,7 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16;
+$doc-font-size              : 14;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -102,3 +102,13 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
    
+
+body {
+  line-height: 1.75; // Set a default line height for the entire document
+}
+
+.page__content {
+  p, li {
+    line-height: 1.75; // Set a default line height for paragraphs and list items within the page content
+  }
+}
