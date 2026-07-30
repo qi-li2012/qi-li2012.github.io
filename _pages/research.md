@@ -12,7 +12,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=pGN0vZMAAAAJ&hl).
 
 
-### Publications in Refereed Journals
+### Selected Publications in Refereed Journals
 
 1. "A Simple Quantile Regression Model Linking Micro Outcomes to Macro Covariates" (with Xiaohong Chen and Gaosheng Ju), *International Economic Reviews*, 66, 2025, 1341-1362.
 1. "Varying-Coefficient Spatial Dynamic Panel Data Models with Fixed Effects: Theory and Application" (with Han Hong, Gaosheng Ju and Karen Yan), *Journal of Econometrics* 245, 2024, 1-22.
