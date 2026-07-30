@@ -61,14 +61,14 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 1. "An Implementable State-Ownership System with General variable Returns" (with Guoqiang Tian) *Journal of Economic Theory*, 64 (1994) 286-297.
 
 
-### Peer-Reviewed Book Chapters and Invited Conference Publications
+<!-- ### Peer-Reviewed Book Chapters and Invited Conference Publications
 
 1. ``Nonparametric Models with Random Effects,'' (with Yiguo Sun and Wei Lin) Chapter 7 (pp. 195-238) in the Handbook of the Econometrics  of Multi-Dimensional Panels: Theory and Application edited by Laszlo Matyas, Springer, 2017.
 1. ``Nonparametric Panel Data Regression Models'' (with Yiguo Sun and Yu Zhang) Oxford Handbook of Panel Data (edited by Badi Baltagi), (2015), 285-324.
 1. ``Nonparametric and Semiparametric Estimation and Hypothesis Testing with Nonstationary Time Series'' (with Yiguo Sun), The Oxford Handbook of Applied Nonparametric and Semiparametric Econometrics and Statistics (edited by Jeff Racine, Liangjun Su and Aman Ullah), (2014), 444-482.
 1. ``Estimating Average Treatment Effects with Continuous and Discrete Covariates: The Case of Swan-Ganz Catheterization,'' (with Jeff Racine and Jeff Wooldridge), *American Economic Review* 98, May, papers and proceedings (2008), 357-362.
 1. ``Semiparametric and Nonparametric Methods in Panel Data Models,'' (with Chunrong Ai *Econometrics of Panel Data Advanced Studies in Theoretical and Applied Econometrics*, 2008, Volume 46, Part II, 451-478.
-1. ``Nonparametric Specification Testing of Non-Nested Econometric Models,'' (with Thanasis Stengos): *The Refinement of Econometric Estimation and Test Procedures*; Ed. by G. Phillips and E. Tzavalis, Cambridge University Press (2007).
+1. ``Nonparametric Specification Testing of Non-Nested Econometric Models,'' (with Thanasis Stengos): *The Refinement of Econometric Estimation and Test Procedures*; Ed. by G. Phillips and E. Tzavalis, Cambridge University Press (2007). -->
 
 
 ### Book
